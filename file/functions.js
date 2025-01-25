@@ -37,7 +37,7 @@ $(window).resize(function() {
 
 function timeElapse(date){
     // Set the start date to November 4, 2007
-    var startDate = new Date("December 10, 2007");
+    var startDate = new Date("January 27, 2007");
     var current = new Date();
     
     // Calculate the difference in seconds
